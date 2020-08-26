@@ -2,6 +2,7 @@
 
 ### Config database
 
+database design: https://dbdesigner.page.link/3EcintFx3oycCPef6
 ```
 cp config.cnf.example config.cnf
 ```
